@@ -6,7 +6,7 @@
   "homepage": "https://OlegMuraviov.github.io/ice-cream",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-project-01/"
+    "build": "parcel build src/*.html --public-url /ice-cream"
   },
   "repository": {
     "type": "git",
